@@ -1,0 +1,14 @@
+**/a.out
+build
+build/**
+cmake-build-debug
+.vscode
+**/.env
+**/.obj
+*.spv
+littleVulkanEngine/sandbox/**
+*.a
+textures_
+models/viking_room.obj
+imgui.ini
+.env.cmake
